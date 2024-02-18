@@ -10,9 +10,11 @@ train.py
 
 
 ## Цитирование
+```
 @inproceedings{power2021grokking,
   title={Grokking: Generalization beyond overfitting on small algorithmic datasets},
   author={Power, Alethea and Burda, Yuri and Edwards, Harri and Babuschkin, Igor and Misra, Vedant},
   booktitle={ICLR MATH-AI Workshop},
   year={2021}
 }
+```
